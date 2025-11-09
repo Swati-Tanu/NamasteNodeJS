@@ -1,2 +1,0 @@
-## Server
--- System kept remotely
