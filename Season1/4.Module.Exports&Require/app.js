@@ -1,5 +1,5 @@
-// cjs requires in sync way
-// mjs has an option for async import as well
+//* cjs requires in sync way
+//* mjs has an option for async import as well
 
 // const { calculateMultiply } = require("./calulate/multiply");
 // const { x, calculateSum } = require("./calulate/sum");

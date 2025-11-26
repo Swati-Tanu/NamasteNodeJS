@@ -1,5 +1,5 @@
 const { calculateMultiply } = require("./multiply");
 const { calculateSum } = require("./sum");
 
-// #exporting modules
+//* exporting modules
 module.exports = { calculateSum, calculateMultiply };
