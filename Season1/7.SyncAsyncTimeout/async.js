@@ -17,10 +17,10 @@ setTimeout(() => {
   console.log("Execute it after 5 seconds");
 }, 5000);
 
-//Synchronous function
-//it will block the main thread
+//* Synchronous function
+//! it will block the main thread
 
-//asynchrous functions
+//* asynchrous functions
 fs.readFile("./file.txt", "utf-8", (err, data) => {
   console.log("file data:" + data);
 });
